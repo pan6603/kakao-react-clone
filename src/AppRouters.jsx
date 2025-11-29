@@ -9,7 +9,6 @@ import Investment from "./Investment";
 import Service from "./pages/service/Service";
 
 function AppRouters () {
-    
     return (
         <BrowserRouter>
             <Routes>
